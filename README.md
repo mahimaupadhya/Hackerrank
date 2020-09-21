@@ -1,2 +1,2 @@
-# Hackerrank-Python
-This folder contains solved hackerrank Python Problems
+# Hackerrank
+This folder contains solved hackerrank Problems
