@@ -1,0 +1,3 @@
+import itertools
+st=input()
+print(*[(len(list(k)),int(i)) for i,k in itertools.groupby(st)])
